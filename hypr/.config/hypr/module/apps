@@ -1,0 +1,7 @@
+$appLauncher = fuzzel
+$browser = zen-browser
+$codeEditor = code
+$fileManager = kitty yazi
+$screenLock = hyprlock
+$screenshot = grim -g "$(slurp -d)" - | wl-copy
+$terminal = kitty
