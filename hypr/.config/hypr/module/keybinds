@@ -11,7 +11,7 @@ bind = SUPER, C, exec, $codeEditor
 bind = SUPER, E, exec, $fileManager
 bind = SUPER, RETURN, exec, $terminal
 bind = , Print, exec, $screenshot
-bind = SUPER, D, exec, vesktop
+bind = SUPER, D, exec, $discord
 
 bind = SUPER, left, movefocus, l
 bind = SUPER, right, movefocus, r

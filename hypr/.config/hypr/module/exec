@@ -1,2 +1,2 @@
-exec-once = mpvpaper --auto-pause ALL Videos/wallpapers -o "no-audio --loop-playlist --fs --video-unscaled=no --geometry=100%x100% --panscan=1"
+exec-once = hyprpaper
 exec-once = systemctl --user start hyprpolkitagent

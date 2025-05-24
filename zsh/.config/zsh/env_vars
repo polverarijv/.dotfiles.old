@@ -1,0 +1,2 @@
+export EDITOR=nvim
+export WLR_RENDERER=vulkan
