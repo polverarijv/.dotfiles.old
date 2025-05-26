@@ -2,7 +2,7 @@ $appLauncher = fuzzel
 $browser = zen-browser
 $codeEditor = code --ozone-platform=wayland --enable-features=WaylandWindowDecorations
 $discord = vesktop --ozone-platform=wayland --enable-features=WaylandWindowDecorations
-$fileManager = kitty yazi
+$fileManager = nemo
 $screenLock = hyprlock
 $screenshot = grim -g "$(slurp -d)" - | wl-copy
 $terminal = kitty
