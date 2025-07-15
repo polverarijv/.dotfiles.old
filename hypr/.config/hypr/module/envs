@@ -1,3 +1,7 @@
 env = HYPRCURSOR_THEME,posycursor
 env = HYPRCURSOR_SIZE,24
 env = XCURSOR_SIZE, 24
+
+env = NVD_BACKEND,direct
+env = GBM_BACKEND,nvidia-drm
+env = __GLX_VENDOR_LIBRARY_NAME,nvidia

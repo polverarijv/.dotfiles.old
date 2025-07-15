@@ -34,4 +34,4 @@ source ~/.config/zsh/completions
 source ~/.config/zsh/env_vars
 source ~/.config/zsh/keybinds
 source ~/.config/zsh/plugins
-source ~/.config/zsh/yubikey
+source ~/.config/zsh/gnupg

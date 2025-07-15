@@ -1,2 +1,7 @@
 export EDITOR=nvim
 export WLR_RENDERER=vulkan
+
+# Set Wayland as default for Electron based apps
+export ELECTRON_OZONE_PLATFORM_HINT=auto
+export OZONE_PLATFORM=wayland
+export MOZ_ENABLE_WAYLAND=1
